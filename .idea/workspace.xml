@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Algo01InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment01/Assignment01LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment01/Assignment02MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment01/Assignment03HCF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment01/Assignment04LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicString/String01CountToatalNoOfSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicString/String02CountNumberOfword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicString/String03ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicString/String04ReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrArrayList/ArrayList01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment/Experiment01RandomElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment/newExperiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg01CountDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg02PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg03ConvertDegreeToCelcious.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg04Absolute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg05Quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg06Factorial1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg07Factorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview01MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview02TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview04Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview05IsUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview06MaxProductOfTwoInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Interview07RotateImageOrMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Inteview03SearchForValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob1EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob2GreetName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob3SimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob4Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob5LargestNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob6CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KunalAssignment1/Prob7FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListUdemy/Singly01Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array04ArrangInDecendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array05NumberOfOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array06DeleteSpecificElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array07MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array08MinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array09DifferenceMaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array10SumOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array11IncreamentEveryElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array12EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array13OddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array14ReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array15SecondLargestSecondSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array16Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Array17CommonElementInTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array18RemoveDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array19RemoveDuplicateSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/Belal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDArray01MaxInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDArray02MinInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDArray03SumOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDArray04MultiplicationOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDArray05Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDarray06OddOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/NumberOfDaysAboveAverageTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/ayan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/ayannew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Bootcamp-Java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Bootcamp-Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA-Bootcamp-Java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688848315162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1700312227295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700312227295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
