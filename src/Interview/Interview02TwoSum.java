@@ -17,7 +17,7 @@ public class Interview02TwoSum {
             {
                 if(num[i]+num[j]==target)
                 {
-                    return new int[]{1,j};
+                    return new int[]{i,j};
                 }
             }
         }
