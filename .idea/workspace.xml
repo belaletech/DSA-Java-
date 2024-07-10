@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray20StockBuy02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray21StockBuy03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray22TrappingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray23TrappingWater02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
