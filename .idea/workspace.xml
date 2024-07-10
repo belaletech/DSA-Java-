@@ -2,79 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestion/Array01PrefixSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestion/ArrayLargestViaTwoPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicString/String05CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch02OrderAgnostic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bitmanupulation/Bit01BitwiseNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bitmap/Bit01And.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray01LargetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray01LargetElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray02SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray02SecondLargestEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray03CheckArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray04CheckArrayIsSorted2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray06ReverseArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray07RemoveDuplicateSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray08MoveZero2End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray09LeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GfgArray05ReverseAray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gfg2Math/Gfg10SieveOfErotosthnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/GFG13digitCountFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg08TrailingZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg09TrailingZero1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg10GCD1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg11GCDEuclideanAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GfgA1/Gfg12GCDOptimise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQueston/InterviewQuestion1Lcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQueston/interviewQuestion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList03/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList03/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList1/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList1/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList2/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList2/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linkedlist04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linkedlist04/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linkedlist04/SinglyLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/MathDigitInFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/gfg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/gfg3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/Array02DeleteElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/rec1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/recNew01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/recNew02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PwSkills/pw01ArrayReverseInplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomQuestion/Random01ReverseArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomQuestion/Random02RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev01PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev01PrimeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev02PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev03PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev04CountDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev05TrailingZero01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev06Rec01Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev07Rec02Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev08Rec03SumOfDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev09RecSubSetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/String01isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/TwoPointer01SortArrayEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/TwoPointerSortColor73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointer/TwoPointerSquareOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/courseEra/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/courseEra/courseEra01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/collection01CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray10LeftRotation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray11SmallestPositiveMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray12EquiliberiumNaive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray13EquiliberiumEfficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray14LargestSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray15MargeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray16largest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interview/Interview02TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview/Interview02TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFGArray/GFGArray09LeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray09LeftRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +55,7 @@
       <recent name="C:\Users\belal\IdeaProjects\Java by Kunal\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CourseEra02">
     <configuration name="CourseEra02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="courseEra.CourseEra02" />
       <module name="Java by Kunal" />
@@ -231,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700313056295</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1719221864722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719221864722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +258,16 @@
           <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02RemoveDuplicate.java</url>
           <line>5</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GfgA1/Gfg11GCDEuclideanAlgo.java</url>
