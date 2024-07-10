@@ -31,11 +31,11 @@ public class GFGArray23TrappingWater02 {
         }
 
         /*
-        // Calculate the accumulated water element by
-		// element consider the amount of water on i'th bar,
-		// the amount of water accumulated on this
-		// particular bar will be equal to min(left[i],
-		// right[i]) - arr[i] .
+        Calculate the accumulated water element by
+		element consider the amount of water on i'th bar,
+		the amount of water accumulated on this
+		particular bar will be equal to min(left[i],
+		right[i]) - arr[i] .
          */
         for(int i=0;i<n;i++)
         {
