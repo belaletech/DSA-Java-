@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/collection01CustomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray10LeftRotation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray11SmallestPositiveMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray12EquiliberiumNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray13EquiliberiumEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray14LargestSumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray15MargeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray16largest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray17MaximumDifference01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFGArray/GFGArray09LeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFGArray/GFGArray09LeftRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +46,7 @@
       <recent name="C:\Users\belal\IdeaProjects\Java by Kunal\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CourseEra02">
+  <component name="RunManager">
     <configuration name="CourseEra02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="courseEra.CourseEra02" />
       <module name="Java by Kunal" />
@@ -258,16 +249,6 @@
           <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02RemoveDuplicate.java</url>
           <line>5</line>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RandomQuestion/Random02MinValue.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GfgA1/Gfg11GCDEuclideanAlgo.java</url>
