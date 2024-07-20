@@ -10,21 +10,28 @@ package SortingAlgorithm;
           Efficient for sort data set
  */
 public class Sorting02InsertionSort {
+    public static void swap(int arr[],int first,int second)
+    {
+        int tmp=arr[first];
+        arr[first]=arr[second];
+        arr[second]=tmp;
+    }
 
     public static void InsetionSort (int arr[])
     {
-        int i,j,tmp;
-        int n=arr.length;
-        for(i=1;i<n;i++)
+        for(int i=0;i<arr.length-1;i++)
         {
-            tmp=arr[i];
-            j=i-1;
-            while (j>=0 && tmp<=arr[j])
+            for(int j=i+1;j>0;j--)
             {
-                arr[j+1]=arr[i];
-                j=j-1;
+                if(arr[j]<arr[j-1])
+                {
+                    swap(arr,j,j-1);
+                }
+                else{
+                    break;
+                }
             }
-            arr[j+1]=tmp;
+
         }
     }
 

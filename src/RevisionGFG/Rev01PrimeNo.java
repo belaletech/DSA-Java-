@@ -28,6 +28,7 @@ public class Rev01PrimeNo {
     }
 
     public static void main(String[] args) {
+
         System.out.println(isPrime(15));
     }
 }
