@@ -1,7 +1,7 @@
 package GFGBinarySearch;
 /*
 int arr[] = {10, 20, 30, 40, 50, 60}, n = 6;
-
+Note : iterative binary Search
  */
 public class BinarySearch01Iterative {
     public static int bSearch(int arr[],int x)
