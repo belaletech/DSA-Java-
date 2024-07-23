@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/binarySearch001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithm/selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFGBinarySearch/BinarySearch01Iterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java by Kunal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java by Kunal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RevisionGFG/Rev01PrimeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RevisionGFG/Rev01PrimeNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithm/Sorting02InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithm/Sorting02InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +25,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch02OrderAgnostic.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BinarySearch/binarySearch001.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/GFGArray/GFGArray21StockBuy03.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Practice/array18RemoveDuplicateElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/RevisionGFG/Rev01PalindromeNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/RevisionGFG/Rev01PrimeNo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/RevisionGFG/Rev06Rec01Power.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/RevisionGFG/Rev07Rec02Palindrome.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TwoPointer/TwoPointer01SortArrayEven.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2M8V0BKorhuv7qk6QPuU1T1KSuL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,13 +54,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BinarySearch01Iterative.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/belal/OneDrive/Desktop/fullStack/System/System",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/belal/OneDrive/Desktop/fullStack/tinder-ai-backend/tinder-ai-backend",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
