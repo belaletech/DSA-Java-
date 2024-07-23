@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/GFGBinarySearch/BinarySearch02Recursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFGBinarySearch/BinarySearch01Iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFGBinarySearch/BinarySearch01Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/JumpSearchAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.BinarySearch01Iterative.executor": "Run",
+    "Application.BinarySearch02Recursive.executor": "Run",
+    "Application.JumpSearchAlgo.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
