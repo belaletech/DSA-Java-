@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7d93430-81e7-40a8-a7ab-161c0ccc8791" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Searching/TernarySearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithm/CyclicSort01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +55,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.BinarySearch01Iterative.executor": "Run",
     "Application.BinarySearch02Recursive.executor": "Run",
+    "Application.CyclicSort01.executor": "Run",
     "Application.JumpSearch2.executor": "Run",
     "Application.JumpSearchAlgo.executor": "Run",
+    "Application.Rev06Rec01Power.executor": "Debug",
     "Application.TernarySearchAlgo.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -259,11 +261,6 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RevisionGFG/Rev06Rec01Power.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/GfgA1/GFG13digitCountFactorial.java</url>
           <line>18</line>
           <option name="timeStamp" value="28" />
@@ -313,15 +310,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/RevisionGFG/Rev06Rec01Power.java</url>
-          <line>3</line>
-          <properties class="RevisionGFG.Rev06Rec01Power" method="power">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GfgA1/GFG13digitCountFactorial.java</url>
